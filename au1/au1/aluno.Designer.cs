@@ -181,7 +181,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.cadastrar);
             this.Name = "aluno";
-            this.Text = "aluno";
+            this.Text = "Área Aluno";
             this.ResumeLayout(false);
             this.PerformLayout();
 

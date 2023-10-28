@@ -83,7 +83,7 @@
             this.Controls.Add(this.prof);
             this.Controls.Add(this.aluno);
             this.Name = "Pri";
-            this.Text = "Pri";
+            this.Text = "Controle Acadêmico";
             this.ResumeLayout(false);
 
         }
