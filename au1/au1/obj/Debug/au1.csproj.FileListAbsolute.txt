@@ -10,3 +10,16 @@ C:\Users\aluno\source\repos\au1\au1\obj\Debug\au1.exe
 C:\Users\aluno\source\repos\au1\au1\obj\Debug\au1.pdb
 C:\Users\aluno\source\repos\au1\au1\obj\Debug\au1.Calculadora.resources
 C:\Users\aluno\source\repos\au1\au1\obj\Debug\au1.Pri.resources
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\bin\Debug\au1.exe.config
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\bin\Debug\au1.exe
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\bin\Debug\au1.pdb
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.aluno.resources
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.calculadora.resources
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.Pri.resources
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.Properties.Resources.resources
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.exe
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.pdb
