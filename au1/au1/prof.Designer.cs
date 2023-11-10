@@ -240,6 +240,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.cadastrar);
             this.Name = "prof";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Área Professor";
             this.ResumeLayout(false);
             this.PerformLayout();

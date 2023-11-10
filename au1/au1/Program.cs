@@ -16,7 +16,7 @@ namespace au1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Pri());
+            Application.Run(new Logaritmo());
         }
     }
 }

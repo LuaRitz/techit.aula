@@ -195,6 +195,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.cadastrar);
             this.Name = "aluno";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Área Aluno";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -84,6 +84,7 @@
             this.Controls.Add(this.prof);
             this.Controls.Add(this.aluno);
             this.Name = "Pri";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Controle Acadêmico";
             this.ResumeLayout(false);
 

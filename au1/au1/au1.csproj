@@ -64,6 +64,12 @@
     <Compile Include="Curs.Designer.cs">
       <DependentUpon>Curs.cs</DependentUpon>
     </Compile>
+    <Compile Include="Logaritmo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logaritmo.Designer.cs">
+      <DependentUpon>Logaritmo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Pri.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logaritmo.resx">
+      <DependentUpon>Logaritmo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pri.resx">
       <DependentUpon>Pri.cs</DependentUpon>
