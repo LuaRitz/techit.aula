@@ -52,6 +52,7 @@
             this.cadastrar.TabIndex = 0;
             this.cadastrar.Text = "cadastrar";
             this.cadastrar.UseVisualStyleBackColor = true;
+            this.cadastrar.Click += new System.EventHandler(this.cadastrar_Click);
             // 
             // button2
             // 
@@ -61,6 +62,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "editar";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -70,6 +72,7 @@
             this.button3.TabIndex = 2;
             this.button3.Text = "excluir";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label1
             // 
@@ -79,6 +82,7 @@
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 3;
             this.label1.Text = "Nome";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -88,6 +92,7 @@
             this.label2.Size = new System.Drawing.Size(23, 13);
             this.label2.TabIndex = 4;
             this.label2.Text = "RG";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -97,6 +102,7 @@
             this.label3.Size = new System.Drawing.Size(39, 13);
             this.label3.TabIndex = 5;
             this.label3.Text = "EMAIL";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // nomet
             // 
@@ -104,6 +110,7 @@
             this.nomet.Name = "nomet";
             this.nomet.Size = new System.Drawing.Size(100, 20);
             this.nomet.TabIndex = 6;
+            this.nomet.TextChanged += new System.EventHandler(this.nomet_TextChanged);
             // 
             // rgt
             // 
@@ -111,6 +118,7 @@
             this.rgt.Name = "rgt";
             this.rgt.Size = new System.Drawing.Size(100, 20);
             this.rgt.TabIndex = 7;
+            this.rgt.TextChanged += new System.EventHandler(this.rgt_TextChanged);
             // 
             // emailt
             // 
@@ -118,6 +126,7 @@
             this.emailt.Name = "emailt";
             this.emailt.Size = new System.Drawing.Size(100, 20);
             this.emailt.TabIndex = 8;
+            this.emailt.TextChanged += new System.EventHandler(this.emailt_TextChanged);
             // 
             // fonet
             // 
@@ -125,6 +134,7 @@
             this.fonet.Name = "fonet";
             this.fonet.Size = new System.Drawing.Size(100, 20);
             this.fonet.TabIndex = 9;
+            this.fonet.TextChanged += new System.EventHandler(this.fonet_TextChanged);
             // 
             // label4
             // 
@@ -134,6 +144,7 @@
             this.label4.Size = new System.Drawing.Size(28, 13);
             this.label4.TabIndex = 10;
             this.label4.Text = "fone";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
@@ -143,6 +154,7 @@
             this.label5.Size = new System.Drawing.Size(60, 13);
             this.label5.TabIndex = 11;
             this.label5.Text = "Residência";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // casat
             // 
@@ -150,6 +162,7 @@
             this.casat.Name = "casat";
             this.casat.Size = new System.Drawing.Size(100, 20);
             this.casat.TabIndex = 12;
+            this.casat.TextChanged += new System.EventHandler(this.casat_TextChanged);
             // 
             // checkBox1
             // 
@@ -160,6 +173,7 @@
             this.checkBox1.TabIndex = 13;
             this.checkBox1.Text = "receber notificações";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // aluno
             // 

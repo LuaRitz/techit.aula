@@ -24,3 +24,4 @@ C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.csproj.CoreCom
 C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.exe
 C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.pdb
 C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.prof.resources
+C:\Users\aluno\Documents\GitHub\techit.aula\au1\au1\obj\Debug\au1.Curs.resources

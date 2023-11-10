@@ -15,6 +15,7 @@ namespace au1
         public Pri()
         {
             InitializeComponent();
+            calc.Visible = false;
         }
 
         private void aluno_Click(object sender, EventArgs e)
@@ -33,6 +34,12 @@ namespace au1
         {
             calculadora calc = new calculadora();
             calc.ShowDialog();
+        }
+
+        private void curs_Click(object sender, EventArgs e)
+        {
+            Curs curso = new Curs();
+            curso.ShowDialog();
         }
     }
 }

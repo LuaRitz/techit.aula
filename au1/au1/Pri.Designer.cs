@@ -30,7 +30,7 @@
         {
             this.aluno = new System.Windows.Forms.Button();
             this.prof = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.curs = new System.Windows.Forms.Button();
             this.calc = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -54,14 +54,15 @@
             this.prof.UseVisualStyleBackColor = true;
             this.prof.Click += new System.EventHandler(this.prof_Click);
             // 
-            // button1
+            // curs
             // 
-            this.button1.Location = new System.Drawing.Point(12, 66);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.curs.Location = new System.Drawing.Point(12, 66);
+            this.curs.Name = "curs";
+            this.curs.Size = new System.Drawing.Size(75, 23);
+            this.curs.TabIndex = 2;
+            this.curs.Text = "Cursos";
+            this.curs.UseVisualStyleBackColor = true;
+            this.curs.Click += new System.EventHandler(this.curs_Click);
             // 
             // calc
             // 
@@ -79,7 +80,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(260, 101);
             this.Controls.Add(this.calc);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.curs);
             this.Controls.Add(this.prof);
             this.Controls.Add(this.aluno);
             this.Name = "Pri";
@@ -92,7 +93,7 @@
 
         private System.Windows.Forms.Button aluno;
         private System.Windows.Forms.Button prof;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button curs;
         private System.Windows.Forms.Button calc;
     }
 }
