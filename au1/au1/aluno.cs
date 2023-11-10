@@ -19,7 +19,13 @@ namespace au1
 
         private void cadastrar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("aluno cadastrado com sucesso " + nomet.Text + "\n email cadastrado: " +emailt.Text);
+            if (nomet.Text == "" || emailt.Text == "")
+            {
+                MessageBox.Show("algum dado está vazio!");
+            }
+            else { 
+            MessageBox.Show("aluno cadastrado: " + nomet.Text + "\n email cadastrado: " +emailt.Text);
+            }
         }
 
         private void casat_TextChanged(object sender, EventArgs e)
