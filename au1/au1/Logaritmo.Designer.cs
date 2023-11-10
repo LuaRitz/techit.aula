@@ -46,6 +46,7 @@
             // 
             this.textBox2.Location = new System.Drawing.Point(80, 52);
             this.textBox2.Name = "textBox2";
+            this.textBox2.PasswordChar = '*';
             this.textBox2.Size = new System.Drawing.Size(148, 20);
             this.textBox2.TabIndex = 1;
             // 
@@ -75,6 +76,7 @@
             this.login.TabIndex = 4;
             this.login.Text = "Login";
             this.login.UseVisualStyleBackColor = true;
+            this.login.Click += new System.EventHandler(this.login_Click);
             // 
             // Logaritmo
             // 

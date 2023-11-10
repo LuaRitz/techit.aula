@@ -16,5 +16,14 @@ namespace au1
         {
             InitializeComponent();
         }
+
+        private void login_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "Lua" & textBox2.Text == "123")
+            {
+                Pri pri = new Pri();
+                pri.ShowDialog();
+            }
+        }
     }
 }
