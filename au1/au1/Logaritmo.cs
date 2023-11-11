@@ -24,6 +24,10 @@ namespace au1
                 Pri pri = new Pri();
                 pri.ShowDialog();
             }
+            else
+            {
+                MessageBox.Show("Dados inválidos");
+            }
         }
     }
 }
